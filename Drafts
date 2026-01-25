@@ -5,23 +5,3 @@ draft: true
 ---
 
 Working thoughts go here.
-.github/workflows/draft-mode.yml
-name: Draft mode
-
-on:
-  push:
-    branches-ignore:
-      - main
-
-jobs:
-  draft-check:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Check out repository
-        uses: actions/checkout@v4
-
-      - name: Confirm draft-only changes
-        run: |
-          echo "Draft mode: skipping content checks."
-          echo "Safe to commit unfinished work."
