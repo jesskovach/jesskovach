@@ -1,7 +1,1 @@
----
-layout: post
-title: Untitled draft
-draft: true
----
-
-Working thoughts go here.
+.github/workflows/draft-mode.yml
