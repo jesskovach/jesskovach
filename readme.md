@@ -12,6 +12,8 @@ This repository is a public hub for my writing, analysis, and project work, grou
 
 It reflects a long view of how the technology industry formed, expanded, and normalized itself — and how decisions made far from the sales floor, support queue, or policy table quietly shape people’s lives, choices, and rights.
 
+This work exists now because the systems that shape daily life — technology, corporations, and government — have become deeply intertwined, while accountability for their consequences has grown increasingly diffuse.
+
 ---
 
 ## Writing, Advocacy & Analysis
