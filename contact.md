@@ -9,6 +9,6 @@ If you’re reaching out with a specific idea or question, a bit of context is a
 
 The best way to reach me is by email:
 
-**youremail@domain.com**
+**jessica@kovachconsultants.com**
 
 If you found your way here through the work itself, I’m glad you did.
