@@ -14,7 +14,7 @@ Long-form writing focused on systems, governance, education, and information int
 
 ## Documentation & Submissions
 Public-facing materials related to formal documentation and research.
-- [UN Special Procedures — public timeline and overview]([url](https://drive.google.com/file/d/1_NuLEgzpsVxX9saGrXqYzD-rbSjw4QIq/view?usp=share_link)
+UN Special Procedures — public timeline and overview (https://drive.google.com/file/d/1_NuLEgzpsVxX9saGrXqYzD-rbSjw4QIq/view?usp=share_link)
 
 ## Ongoing Work
 
