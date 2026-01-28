@@ -22,7 +22,7 @@ Working through the rise of wireless and later inside a global technology retail
 
 My writing focuses on how these systems fail people slowly and predictably — not through dramatic collapse, but through normalized tradeoffs that privilege growth, compliance, and profit over care.
 
-Recent essays include “
+Recent essays include:
 
 [Why Women Are Leaving Their Marriages — and It’s Not Quiet Quitting](https://www.jesskovach.com/p/why-women-are-leaving-their-marriages?lli=1)
 
