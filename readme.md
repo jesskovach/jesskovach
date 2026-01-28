@@ -6,15 +6,17 @@
 
 ## What This Is
 
-This repository is a **hub** for my writing, projects, and ongoing work focused on how systems function in practice — especially where accountability quietly erodes and human impact is treated as an afterthought.
+This repository is a **public hub** for my writing, projects, and ongoing work focused on how systems function in practice — especially where accountability quietly erodes and human impact is treated as an afterthought.
 
-It connects analysis, lived experience, and building work in one place, without pretending these are separate domains.
+It brings together analysis, advocacy, lived experience, and building work in one place, without pretending these are separate domains.
 
 ---
 
-## Writing & Analysis
+## Writing, Advocacy & Analysis
 
-I write about **institutions, power, technology, gender, and governance** in plain language — with an emphasis on clarity over abstraction and consequences over theory.
+I write about **institutions, power, gender, democracy, and governance** in plain language — prioritizing clarity, evidence, and real-world consequences over abstraction or rhetoric.
+
+My work focuses on how legal, political, and organizational systems fail people slowly, predictably, and often by design.
 
 Selected essays include:
 - **[Why Women Are Leaving Their Marriages — and It’s Not “Quiet Quitting”](https://www.jesskovach.com/p/why-women-are-leaving-their-marriages?lli=1)**
@@ -22,43 +24,49 @@ Selected essays include:
 - **[Courts, Corruption, and the Cost of Looking Away](https://www.jesskovach.com/p/courts-corruption-and-the-cost-of?lli=1)**
 - **[When Accountability Becomes Optional, Democracy Fails](https://www.jesskovach.com/p/when-accountability-becomes-optional?lli=1)**
 
+In addition to public writing, I have **submitted written work and analysis to the United Nations**, focused on governance failures, accountability mechanisms, and the human cost of institutional neglect.
+
 More writing lives on Substack and is updated regularly.
 
 ---
 
-## Building
+## Building (in Service of Accountability)
 
-I also build tools that respond to the same questions my writing explores.
+I also build tools that respond to the same questions my writing explores — particularly where systems break down between stated values and lived reality.
 
-Current projects include:
+Current project:
 - **[CoachCRM / Base44](https://app.jesskovach.com)**  
-  A system designed to make follow-through, transparency, and human-centered accountability easier to sustain in practice
+  A system designed to support follow-through, transparency, and human-centered accountability in practice
 
-My building work focuses less on novelty and more on **usability, incentives, and what people actually need systems to do**.
+My building work emphasizes **usability, incentives, and ethical design** — not growth for its own sake.
 
 ---
 
 ## Systems I Focus On
 
-- **Organizational design** and leadership accountability  
-- **Power dynamics** inside institutions  
-- **Technology** as a force that can either obscure or clarify responsibility  
-- **Governance failures** and their downstream human cost  
+- **Democratic institutions** and accountability failures  
+- **Gender, power, and structural inequality**  
+- **Organizational behavior** inside large systems  
+- **Technology’s role** in obscuring or clarifying responsibility  
+- **Legal and governance frameworks** that enable harm through inaction  
 
 ---
 
 ## Current Focus
 
-- Expanding long-form writing and investigative analysis  
-- Developing and refining accountability-focused tools  
-- Connecting systems analysis to **real-world outcomes**, not abstractions  
+- Long-form writing and public-interest analysis  
+- Accountability, governance, and institutional reform  
+- Connecting policy, systems, and law to lived human outcomes  
 
 ---
 
-## Elsewhere
+## Where You Can Find Me
 
-- **Substack:** [Jess Kovach on Substack](https://substack.com/@jessicakovach)
-- **GitHub Projects:** See pinned repositories  
+[![Substack](https://img.shields.io/badge/Substack-black?style=flat&logo=substack&logoColor=white)](https://substack.com/@jessicakovach)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/jesskovach)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessicakovach/)
+[![Instagram](https://img.shields.io/badge/Instagram-black?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/kovachconsulting/)
+[![Facebook](https://img.shields.io/badge/Facebook-black?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61586011387701)
 
 ---
 
