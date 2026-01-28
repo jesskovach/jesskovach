@@ -23,9 +23,12 @@ Working through the rise of wireless and later inside a global technology retail
 My writing focuses on how these systems fail people slowly and predictably — not through dramatic collapse, but through normalized tradeoffs that privilege growth, compliance, and profit over care.
 
 Recent essays include “
-[Why Women Are Leaving Their Marriages — and It’s Not Quiet Quitting](https://www.jesskovach.com/p/why-women-are-leaving-their-marriages?lli=1),
-[Democracy Didn’t Collapse Overnight. It Was Dismantled — Legally](https://www.jesskovach.com/p/democracy-didnt-collapse-overnight?lli=1),
-[Courts, Corruption, and the Cost of Looking Away](https://www.jesskovach.com/p/courts-corruption-and-the-cost-of?lli=1),
+[Why Women Are Leaving Their Marriages — and It’s Not Quiet Quitting](https://www.jesskovach.com/p/why-women-are-leaving-their-marriages?lli=1)
+
+[Democracy Didn’t Collapse Overnight. It Was Dismantled — Legally](https://www.jesskovach.com/p/democracy-didnt-collapse-overnight?lli=1)
+
+[Courts, Corruption, and the Cost of Looking Away](https://www.jesskovach.com/p/courts-corruption-and-the-cost-of?lli=1)
+
 ” and
 [When Accountability Becomes Optional, Democracy Fails](https://www.jesskovach.com/p/when-accountability-becomes-optional?lli=1).
 
