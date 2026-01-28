@@ -56,9 +56,8 @@ My building work focuses less on novelty and more on **usability, incentives, an
 
 ## Elsewhere
 
-- **Substack:** *(link forthcoming)*  
-- **GitHub Projects:** See pinned repositories  
-
+- **Substack:** [Jess Kovach on Substack]((https://substack.com/@jessicakovach))
+- **GitHub Projects:** See pinned repositories
 ---
 
 *This repository is intentionally maintained as a living index, not an archive.*
