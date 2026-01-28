@@ -23,18 +23,18 @@ Working through the rise of wireless and later inside a global technology retail
 My writing focuses on how these systems fail people slowly and predictably — not through dramatic collapse, but through normalized tradeoffs that privilege growth, compliance, and profit over care.
 
 Recent essays include “
+
 [Why Women Are Leaving Their Marriages — and It’s Not Quiet Quitting](https://www.jesskovach.com/p/why-women-are-leaving-their-marriages?lli=1)
 
 [Democracy Didn’t Collapse Overnight. It Was Dismantled — Legally](https://www.jesskovach.com/p/democracy-didnt-collapse-overnight?lli=1)
 
 [Courts, Corruption, and the Cost of Looking Away](https://www.jesskovach.com/p/courts-corruption-and-the-cost-of?lli=1)
 
-” and
-[When Accountability Becomes Optional, Democracy Fails](https://www.jesskovach.com/p/when-accountability-becomes-optional?lli=1).
+[When Accountability Becomes Optional, Democracy Fails](https://www.jesskovach.com/p/when-accountability-becomes-optional?lli=1)
 
 In addition to public writing, I have submitted written work and analysis to the United Nations, focused on governance failures, accountability mechanisms, and the human cost of institutional neglect.
 
-More writing lives on Substack and is updated regularly.
+More writing lives on [Substack](https://substack.com/@jessicakovach)  and is updated regularly.
 
 ---
 
@@ -69,6 +69,7 @@ I am currently focused on long-form public-interest writing, institutional accou
 [LinkedIn](https://www.linkedin.com/in/jessicakovach/)  
 [Instagram](https://www.instagram.com/kovachconsulting/)  
 [Facebook](https://www.facebook.com/profile.php?id=61586011387701)
+[Kovach Consulting Group](https://www.kovachconsultants.com)
 
 ---
 
