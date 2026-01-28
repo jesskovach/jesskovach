@@ -1,6 +1,6 @@
 # Jess Kovach
 
-I have spent more than two decades leading inside consumer technology — first in the wireless industry as it took shape in the early 2000s, and later at one of the world’s leading technology retailers — watching how technology moved from promise to infrastructure, and how its impact on people was shaped less by innovation than by incentives, power, and control.
+I have spent more than two decades leading inside consumer technology — first in the wireless industry as it took shape in the early 2000s, and later at one of the world’s leading technology retailers — watching how technology moved from promise to infrastructure, and how its impact on people became shaped less by innovation than by incentives, power, and control.
 
 My work now focuses on making those systems legible: how corporations, operating systems, and governments increasingly reinforce one another in ways that prioritize profit, scale, and compliance over human well-being.
 
@@ -8,7 +8,7 @@ My work now focuses on making those systems legible: how corporations, operating
 
 ## What This Is
 
-This repository is a public hub for my writing, analysis, and project work grounded in lived experience inside large consumer technology organizations.
+This repository is a public hub for my writing, analysis, and project work, grounded in lived experience inside large consumer technology organizations.
 
 It reflects a long view of how the technology industry formed, expanded, and normalized itself — and how decisions made far from the sales floor, support queue, or policy table quietly shape people’s lives, choices, and rights.
 
@@ -18,7 +18,7 @@ It reflects a long view of how the technology industry formed, expanded, and nor
 
 I write about technology, institutions, power, gender, and democracy in plain language, drawing on years of leadership in retail technology and firsthand exposure to how corporate strategy becomes lived reality.
 
-Working through the rise of wireless and later inside a global technology retailer shaped how I understand technology’s role in society. I saw how operating systems become gatekeepers, how corporate incentives align with regulatory and governmental interests, and how “user experience” often masks extraction, surveillance, and dependency.
+Working through the rise of wireless, and later inside a global technology retailer, shaped how I understand technology’s role in society. I saw how operating systems become gatekeepers, how corporate incentives align with regulatory and governmental interests, and how “user experience” often masks extraction, surveillance, and dependency.
 
 My writing focuses on how these systems fail people slowly and predictably — not through dramatic collapse, but through normalized tradeoffs that privilege growth, compliance, and profit over care.
 
@@ -28,13 +28,13 @@ Recent essays include:
 
 [Democracy Didn’t Collapse Overnight. It Was Dismantled — Legally](https://www.jesskovach.com/p/democracy-didnt-collapse-overnight?lli=1)
 
-[Courts, Corruption, and the Cost of Looking Away](https://www.jesskovach.com/p/courts-corruption-and-the-cost-of?lli=1) 
+[Courts, Corruption, and the Cost of Looking Away](https://www.jesskovach.com/p/courts-corruption-and-the-cost-of?lli=1)
 
 [When Accountability Becomes Optional, Democracy Fails](https://www.jesskovach.com/p/when-accountability-becomes-optional?lli=1)
 
 In addition to public writing, I have submitted written work and analysis to the United Nations, focused on governance failures, accountability mechanisms, and the human cost of institutional neglect.
 
-More writing lives on [Substack](https://substack.com/@jessicakovach) and is updated regularly.
+More writing lives on Substack and is updated regularly.
 
 ---
 
@@ -64,14 +64,10 @@ I am currently focused on long-form public-interest writing, institutional accou
 
 ## Where You Can Find Me
 
-[Substack](https://substack.com/@jessicakovach) 
-
-[GitHub](https://github.com/jesskovach) 
-
+[Substack](https://substack.com/@jessicakovach)  
+[GitHub](https://github.com/jesskovach)  
 [LinkedIn](https://www.linkedin.com/in/jessicakovach/)  
-
 [Instagram](https://www.instagram.com/kovachconsulting/)  
-
 [Facebook](https://www.facebook.com/profile.php?id=61586011387701)
 
 ---
