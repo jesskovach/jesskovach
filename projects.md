@@ -1,17 +1,7 @@
----
-layout: page
-title: Projects
----
+## Ongoing Work
 
-This page highlights longer-term projects that extend beyond individual essays or posts.
+Questions and lines of inquiry I’m actively tracking. These may develop into essays, documentation, or remain open.
 
-Some projects are public-facing. Others are documented here for continuity and reference.
-
-## Current Projects
-- Project name — one-line description
-
-## Archival / Reference Projects
-- Project name — one-line description
-
-## In Development
-Work that is still taking shape and may not yet be public.
+- How deregulated information systems reshape public trust, education, and democratic participation
+- What accountability looks like when power is exercised through infrastructure rather than overt authority
+- How legal legitimacy can coexist with democratic harm — and what repair actually requires
