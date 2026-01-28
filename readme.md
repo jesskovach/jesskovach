@@ -28,13 +28,13 @@ Recent essays include:
 
 [Democracy Didn’t Collapse Overnight. It Was Dismantled — Legally](https://www.jesskovach.com/p/democracy-didnt-collapse-overnight?lli=1)
 
-[Courts, Corruption, and the Cost of Looking Away](https://www.jesskovach.com/p/courts-corruption-and-the-cost-of?lli=1)
+[Courts, Corruption, and the Cost of Looking Away](https://www.jesskovach.com/p/courts-corruption-and-the-cost-of?lli=1) 
 
 [When Accountability Becomes Optional, Democracy Fails](https://www.jesskovach.com/p/when-accountability-becomes-optional?lli=1)
 
 In addition to public writing, I have submitted written work and analysis to the United Nations, focused on governance failures, accountability mechanisms, and the human cost of institutional neglect.
 
-More writing lives on [Substack](https://substack.com/@jessicakovach)  and is updated regularly.
+More writing lives on [Substack](https://substack.com/@jessicakovach) and is updated regularly.
 
 ---
 
@@ -64,12 +64,15 @@ I am currently focused on long-form public-interest writing, institutional accou
 
 ## Where You Can Find Me
 
-[Substack](https://substack.com/@jessicakovach)  
-[GitHub](https://github.com/jesskovach)  
+[Substack](https://substack.com/@jessicakovach) 
+
+[GitHub](https://github.com/jesskovach) 
+
 [LinkedIn](https://www.linkedin.com/in/jessicakovach/)  
+
 [Instagram](https://www.instagram.com/kovachconsulting/)  
+
 [Facebook](https://www.facebook.com/profile.php?id=61586011387701)
-[Kovach Consulting Group](https://www.kovachconsultants.com)
 
 ---
 
