@@ -9,16 +9,17 @@ I’m less interested in producing commentary than in building a body of work th
 ## Essays & Analysis
 Long-form writing focused on systems, governance, education, and information integrity.
 
-- Title — short description (link)
-- Title — short description (link)
+- **Not Here to Whisper** — A multi-part series examining how democratic accountability eroded through legal, economic, and institutional design, from media consolidation and judicial capture to elite immunity and governance-by-infrastructure.  
+  *(Originally published on Substack; links to individual parts.)*
 
 ## Documentation & Submissions
 Public-facing materials related to formal documentation and research.
-
-- UN Special Procedures — public timeline and overview (link)
+- [UN Special Procedures — public timeline and overview]([url](https://drive.google.com/file/d/1_NuLEgzpsVxX9saGrXqYzD-rbSjw4QIq/view?usp=share_link)
 
 ## Ongoing Work
-Themes and questions I’m currently tracking. These may develop slowly or remain unresolved.
 
-- Topic or question
-- Topic or question
+Questions and lines of inquiry I’m actively tracking. These may develop into essays, documentation, or remain open.
+
+- How deregulated information systems reshape public trust, education, and democratic participation
+- What accountability looks like when power is exercised through infrastructure rather than overt authority
+- How legal legitimacy can coexist with democratic harm — and what repair actually requires
