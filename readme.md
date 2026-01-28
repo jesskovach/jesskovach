@@ -1,73 +1,72 @@
 # Jess Kovach
 
-**I study how institutions actually behave — not how they describe themselves — and build tools and narratives that make power, incentives, and accountability visible for the people who live inside those systems.**
+I have spent more than two decades leading inside consumer technology — first in the wireless industry as it took shape in the early 2000s, and later at one of the world’s leading technology retailers — watching how technology moved from promise to infrastructure, and how its impact on people was shaped less by innovation than by incentives, power, and control.
+
+My work now focuses on making those systems legible: how corporations, operating systems, and governments increasingly reinforce one another in ways that prioritize profit, scale, and compliance over human well-being.
 
 ---
 
 ## What This Is
 
-This repository is a **public hub** for my writing, projects, and ongoing work focused on how systems function in practice — especially where accountability quietly erodes and human impact is treated as an afterthought.
+This repository is a public hub for my writing, analysis, and project work grounded in lived experience inside large consumer technology organizations.
 
-It brings together analysis, advocacy, lived experience, and building work in one place, without pretending these are separate domains.
+It reflects a long view of how the technology industry formed, expanded, and normalized itself — and how decisions made far from the sales floor, support queue, or policy table quietly shape people’s lives, choices, and rights.
 
 ---
 
 ## Writing, Advocacy & Analysis
 
-I write about **institutions, power, gender, democracy, and governance** in plain language — prioritizing clarity, evidence, and real-world consequences over abstraction or rhetoric.
+I write about technology, institutions, power, gender, and democracy in plain language, drawing on years of leadership in retail technology and firsthand exposure to how corporate strategy becomes lived reality.
 
-My work focuses on how legal, political, and organizational systems fail people slowly, predictably, and often by design.
+Working through the rise of wireless and later inside a global technology retailer shaped how I understand technology’s role in society. I saw how operating systems become gatekeepers, how corporate incentives align with regulatory and governmental interests, and how “user experience” often masks extraction, surveillance, and dependency.
 
-Selected essays include:
-- **[Why Women Are Leaving Their Marriages — and It’s Not “Quiet Quitting”](https://www.jesskovach.com/p/why-women-are-leaving-their-marriages?lli=1)**
-- **[Democracy Didn’t Collapse Overnight. It Was Dismantled — Legally](https://www.jesskovach.com/p/democracy-didnt-collapse-overnight?lli=1)**
-- **[Courts, Corruption, and the Cost of Looking Away](https://www.jesskovach.com/p/courts-corruption-and-the-cost-of?lli=1)**
-- **[When Accountability Becomes Optional, Democracy Fails](https://www.jesskovach.com/p/when-accountability-becomes-optional?lli=1)**
+My writing focuses on how these systems fail people slowly and predictably — not through dramatic collapse, but through normalized tradeoffs that privilege growth, compliance, and profit over care.
 
-In addition to public writing, I have **submitted written work and analysis to the United Nations**, focused on governance failures, accountability mechanisms, and the human cost of institutional neglect.
+Recent essays include “
+[Why Women Are Leaving Their Marriages — and It’s Not Quiet Quitting](https://www.jesskovach.com/p/why-women-are-leaving-their-marriages?lli=1),
+[Democracy Didn’t Collapse Overnight. It Was Dismantled — Legally](https://www.jesskovach.com/p/democracy-didnt-collapse-overnight?lli=1),
+[Courts, Corruption, and the Cost of Looking Away](https://www.jesskovach.com/p/courts-corruption-and-the-cost-of?lli=1),
+” and
+[When Accountability Becomes Optional, Democracy Fails](https://www.jesskovach.com/p/when-accountability-becomes-optional?lli=1).
+
+In addition to public writing, I have submitted written work and analysis to the United Nations, focused on governance failures, accountability mechanisms, and the human cost of institutional neglect.
 
 More writing lives on Substack and is updated regularly.
 
 ---
 
-## Building (in Service of Accountability)
+## Building (Informed by the Front Lines of Technology)
 
-I also build tools that respond to the same questions my writing explores — particularly where systems break down between stated values and lived reality.
+I build selectively, informed by years of leading teams where technology met people in real time — on sales floors, in support conversations, and in moments of friction that rarely make it into strategy decks.
 
-Current project:
-- **[CoachCRM / Base44](https://app.jesskovach.com)**  
-  A system designed to support follow-through, transparency, and human-centered accountability in practice
+My current project, [CoachCRM / Base44](https://app.jesskovach.com), reflects that experience. It is designed to support follow-through, transparency, and human-centered accountability, rather than scale for its own sake.
 
-My building work emphasizes **usability, incentives, and ethical design** — not growth for its own sake.
+The emphasis is on usability, incentives, and ethical design — building systems that acknowledge how people actually work, not how organizations wish they did.
 
 ---
 
 ## Systems I Focus On
 
-- **Democratic institutions** and accountability failures  
-- **Gender, power, and structural inequality**  
-- **Organizational behavior** inside large systems  
-- **Technology’s role** in obscuring or clarifying responsibility  
-- **Legal and governance frameworks** that enable harm through inaction  
+My work centers on consumer technology as infrastructure, corporate power inside ostensibly neutral platforms, and the quiet alignment between technology companies and government interests.
+
+I am particularly interested in how accountability erodes once systems grow large enough to feel inevitable, and how harm becomes normalized through convenience, dependency, and institutional silence.
 
 ---
 
 ## Current Focus
 
-- Long-form writing and public-interest analysis  
-- Accountability, governance, and institutional reform  
-- Connecting policy, systems, and law to lived human outcomes  
+I am currently focused on long-form public-interest writing, institutional accountability, and connecting technology, governance, and law to lived human outcomes rather than abstractions.
 
 ---
 
 ## Where You Can Find Me
 
-[![Substack](https://img.shields.io/badge/Substack-black?style=flat&logo=substack&logoColor=white)](https://substack.com/@jessicakovach)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/jesskovach)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessicakovach/)
-[![Instagram](https://img.shields.io/badge/Instagram-black?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/kovachconsulting/)
-[![Facebook](https://img.shields.io/badge/Facebook-black?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61586011387701)
+[Substack](https://substack.com/@jessicakovach)  
+[GitHub](https://github.com/jesskovach)  
+[LinkedIn](https://www.linkedin.com/in/jessicakovach/)  
+[Instagram](https://www.instagram.com/kovachconsulting/)  
+[Facebook](https://www.facebook.com/profile.php?id=61586011387701)
 
 ---
 
-*This repository is intentionally maintained as a living index, not an archive.*
+This repository is intentionally maintained as a living index, not an archive.
