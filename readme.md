@@ -1,17 +1,60 @@
-Hi — I’m Jess 👋
+Jess Kovach
 
-I’m a writer, speaker, and consultant focused on leadership, systems, and the human impact of decision-making in complex environments.
+I study how institutions actually behave — not how they describe themselves — and build tools and narratives that make power, incentives, and accountability visible for the people who live inside those systems.
 
-This repository powers my personal website, which serves as a home base for my writing, speaking work, and longer-term projects. The site is intentionally simple and text-forward — a place to think clearly, name patterns, and explore how people navigate power, responsibility, and values inside real systems.
+⸻
 
-My work draws from experience across corporate, nonprofit, and humanitarian contexts, including human rights consulting with a focus on anti-trafficking efforts and protecting the rights of children in humanitarian settings. I’m particularly interested in how systems shape behavior — and what it takes to lead with integrity when the answers aren’t obvious.
+What This Is
 
-Related work includes thematic documentation on information integrity, education, and governance submitted to UN Special Procedures.
+This repository is a hub for my writing, projects, and ongoing work focused on how systems function in practice — especially where accountability quietly erodes and human impact is treated as an afterthought.
 
-I also work as a life coach and neurodivergent coach, supporting people navigating leadership, change, burnout, and identity in environments that weren’t designed with them in mind.
+It connects analysis, lived experience, and building work in one place, without pretending these are separate domains.
 
-This repo isn’t meant to be clever or complex. It’s infrastructure for public work — writing, speaking, and sense-making — built to stay out of the way.
+⸻
 
-If you’re here out of curiosity, welcome.
+Writing & Analysis
 
-If you’re here because of the work, you’re in the right place.
+I write about institutions, power, technology, and governance in plain language — with an emphasis on clarity over abstraction.
+
+Current and recent work includes:
+	•	Essays and analysis on Substack
+	•	Op-ed–style writing informed by reporting, systems thinking, and lived experience
+	•	Long-form projects examining accountability failures across public and private institutions
+
+(Selected links will live here.)
+
+⸻
+
+Building
+
+I also build tools that respond to the same questions my writing explores.
+
+Current projects include:
+	•	CoachCRM / Base44 — a system designed to make follow-through, transparency, and human-centered accountability easier to sustain in practice
+
+My building work focuses less on novelty and more on usability, incentives, and what people actually need systems to do.
+
+⸻
+
+Systems I Focus On
+	•	Organizational design and leadership accountability
+	•	Power dynamics inside institutions
+	•	Technology as a force that can either obscure or clarify responsibility
+	•	Governance failures and their downstream human cost
+
+⸻
+
+Current Focus
+	•	Expanding long-form writing and investigative analysis
+	•	Developing and refining accountability-focused tools
+	•	Connecting systems analysis to real-world outcomes, not abstractions
+
+⸻
+
+Elsewhere
+	•	Substack: (link forthcoming)
+	•	GitHub Projects: See pinned repositories
+
+⸻
+
+This repository is intentionally maintained as a living index, not an archive.
